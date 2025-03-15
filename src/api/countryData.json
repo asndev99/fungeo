@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125.8,
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 5,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83,
+    "interestingFact": "Germany is home to over 1,500 different types of sausages."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 109,
+    "interestingFact": "Egypt has the only remaining ancient wonder of the world: the Great Pyramid of Giza."
+  },
+  {
+    "id": 7,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1400,
+    "interestingFact": "India is the largest democracy in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 9,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60,
+    "interestingFact": "South Africa has three capitals: Pretoria, Bloemfontein, and Cape Town."
+  },
+  {
+    "id": 10,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 128,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  }
+]
